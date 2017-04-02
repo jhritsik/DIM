@@ -1,0 +1,9 @@
+---
+title: flight speed velocity of swallows
+src_directory: <%= test_configuration.dest %>
+author: <%= pkg.author %>
+---
+Hello World!
+the title of our document is {{ title }}
+the src directory specified in configurations is "{{ src_directory }}"
+the author of this document is "{{ author }}"
